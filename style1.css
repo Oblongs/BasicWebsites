@@ -39,6 +39,14 @@
     text-align: justify;
 }
 
+.icentre {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+
 h1 {
     color: #339933;
 	font-size: 18pt;
