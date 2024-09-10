@@ -39,6 +39,12 @@
     text-align: justify;
 }
 
+.icentre {
+  max-width: 100%
+  height: auto;
+}
+
+
 h1 {
     color: #339933;
 	font-size: 18pt;
